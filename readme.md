@@ -2,6 +2,9 @@
 ============
 
 A global tool for running, managing and querying Visual Studio installations
+A global tool for running, managing and querying Visual Studio installations
+A global tool for running, managing and querying Visual Studio installations
+
 
 [![Version](https://img.shields.io/nuget/v/dotnet-vs.svg?color=royalblue)](https://www.nuget.org/packages/dotnet-vs)
 [![Downloads](https://img.shields.io/nuget/dt/dotnet-vs.svg?color=darkmagenta)](https://www.nuget.org/packages/dotnet-vs)
